@@ -1,9 +1,9 @@
 # CarQuery
-###`**Please make sure to install Expo CLI:**`
+### `Please make sure to install Expo CLI:`
 
-###`**You can install Expo CLI by running::**`
+### `You can install Expo CLI by running::`
 
-###`**npm install -g expo-cli:**`
+### `npm install -g expo-cli:`
 
 ## Getting started
 
